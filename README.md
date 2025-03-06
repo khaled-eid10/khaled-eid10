@@ -54,3 +54,4 @@ I'm a passionate Backend Developer with a strong focus on building scalable, eff
 ![khaled-eid10's Stats](https://github-readme-stats.vercel.app/api?username=khaled-eid10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![khaled-eid10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-eid10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![](https://komarev.com/ghpvc/?username=khaled-eid10)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khaled-eid10&label=Profile%20views&color=ce9927&style=flat" alt="khaled-eid10" /> </p>
